@@ -784,114 +784,20 @@ Supporting screenshots should be included to demonstrate
 
 the commands executed and the results obtained.
 
-</p>
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/dd49a5c5-0e0b-40e7-a363-f63f63604268" />
 
 
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/c4df80ef-d3d0-44b9-8574-a44aeb73eb20" />
 
-<div class="evidence">
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/c5ec4dcc-1b52-4be9-a2c8-5afeb740e6e7" />
 
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/5937c9ae-31b2-48d8-aaef-464e035e5b7a" />
 
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/71ad2c44-7d58-4277-bc7a-28e9c13df617" />
 
-<h3>WHOIS Information Gathering</h3>
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/99ea401b-54a9-48b5-8294-799ea5f6d80d" />
 
-
-
-
-
-
-<p class="placeholder">
-
-WHOIS command output
-
-</p>
-
-
-
-</div>
-
-
-
-
-
-<div class="evidence">
-
-
-
-<h3>WhatWeb Technology Identification</h3>
-
-
-
-<img src="screenshots/whatweb.png"
-
-alt="WhatWeb Screenshot">
-
-
-
-<p class="placeholder">
-
-WhatWeb command output
-
-</p>
-
-
-
-</div>
-
-
-
-
-
-<div class="evidence">
-
-
-
-<h3>DNS Enumeration</h3>
-
-
-
-<img src="screenshots/dnsrecon.png"
-
-alt="DNSRecon Screenshot">
-
-
-
-<p class="placeholder">
-
-DNSRecon command output
-
-</p>
-
-
-
-</div>
-
-
-
-
-
-<div class="evidence">
-
-
-
-<h3>Zenmap Network Scanning</h3>
-
-
-
-<img src="screenshots/zenmap.png"
-
-alt="Zenmap Screenshot">
-
-
-
-<p class="placeholder">
-
-Zenmap network discovery results
-
-</p>
-
-
-
-</div>
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f90bbfcd-2b35-4a3f-819f-6ba62199b6cf" />
 
 
 
@@ -1043,7 +949,7 @@ Cybersecurity | Ethical Hacking | Network Security
 
 <p>
 
-Prepared by: YOUR NAME
+Prepared by: Vincent Goodluck
 
 </p>
 

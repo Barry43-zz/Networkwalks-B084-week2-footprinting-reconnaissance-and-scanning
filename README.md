@@ -799,6 +799,7 @@ the commands executed and the results obtained.
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f90bbfcd-2b35-4a3f-819f-6ba62199b6cf" />
 
+![Uploading image.png…]()
 
 
 </section>

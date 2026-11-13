@@ -799,7 +799,8 @@ the commands executed and the results obtained.
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f90bbfcd-2b35-4a3f-819f-6ba62199b6cf" />
 
-![Uploading image.png…]()
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/6d843311-f727-4785-808d-c52ca07c8ca9" />
+
 
 
 </section>
